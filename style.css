@@ -1,0 +1,146 @@
+/* ::::::::::::colors and font::::::::::
+Body background: #eef6f1
+Body color: #606572
+secondary color: #252c3e
+Secondary Background color: #283044
+assent background color: #d7d9d7
+
+:::::::::::::::::::::::::::::::::::::::*/
+
+
+/* :::::::::::Global styles::::::::: */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    overflow-x: hidden;
+    background-color: #eef6f1;
+    color: #606572;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+    text-rendering: optimizeLegibility;
+    box-sizing: border-box;
+    font-family: 'Raleway', sans-serif;
+}
+
+.container {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.main_nav {
+    background-color: #283044;
+    width: 100vw;
+    height: 10vh;
+}
+
+.header_section{
+    background-color: #283044;
+    width: 100vw;
+    height: 10vh;
+}
+
+.personal_details{
+    height: 8vh;
+}
+
+.name_icon img {
+    width: 60px !important;
+    height: 60px !important;
+    padding: .5em;
+}
+
+.name_icon{
+    padding-top: 7px;
+    float: left;
+}
+
+.text_wrapper{
+    padding: 13px 3px 0 10px;
+}
+
+.text_white{
+    color: #ebf5ee !important;
+}
+
+.text_uppercase{
+    text-transform: uppercase !important;
+}
+
+.text_capitalize{
+    text-transform: capitalize !important;
+}
+
+.p-5{
+    padding: 5px;
+}
+
+h2{
+    font-size: 20px;
+    font-weight: 800;
+    text-transform: uppercase;
+    padding: 3px;
+}
+
+p{
+    font-size: 17px;
+    line-height: 25px;
+    font-weight: 500;
+    padding-top: 5px;
+}
+
+h3{
+    font-size: 18px;
+    font-weight: 800;
+}
+
+.mt_20{
+    margin-top: 20px;
+}
+
+.pt_8{
+    padding-top: 5px;
+}
+
+.mt_10{
+    margin-top: 10px;
+}
+
+h4{
+    font-size: 17px;
+    font-weight: 700;
+}
+
+p span{
+    font-weight: 600;
+}
+
+/* ::::::::::::: MAIN SECTION :::::::::::::::::::: */
+
+.opening_img img{
+    margin: 0 auto;
+    width: 100%;
+    height: 100%;
+}
+.opening_img{
+    margin: 0 auto;
+    width: 100%;
+    height: 70%;
+    padding: 0 5px 5px 5px;
+}
+
+
+/* :::::::::::::MEDIA QUERIES::::::::::::: */
+
+@media screen and (max-width: 760px){
+    .container{
+        width: 90%;
+    }
+    .header_section{
+        width: 100vw;
+        height: 11vh;
+    }
+}

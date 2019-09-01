@@ -1,0 +1,112 @@
+
+Project Title:
+Atomic brain app quiz Feature
+
+introduction:
+The importance of stem subjects to ensuring and promoting an IT driven Society cannot be overemphasized.
+
+Statement of problem:
+To design a quiz feature on an educational app for Teens to learn about any STEM subjects
+in a fun way.
+
+PROJECT GOALS:
+>> Simple and clean design.
+>> Easy navigation.
+>> Fun Interaction.
+
+About Atomic Brain:
+Atomic brain is a secondary school chemistry quiz app that helps students to test their knowledge of 
+the subject in a fun and Interactive way while also helping them build on their knowledge by giving
+them answers to failed questions coupled with illustrative diagrams and charts.
+
+Approach:
+on working on this feature i opted for the lean approach which which basically emphasizes rapid sketching 
+while putting consideration and practice the design thinking process.
+
+Research:
+Market Research;
+ Adequate market research was carried out on competitor. This was not to engage in a parity 
+war of features but to better understand the user pain areas and flaws in the implementation of features in the competitors 
+apps.
+
+User Research;
+Due to time constrain and limited resources user interviews were not carried out and i used personas constantly
+throughout the project to guide design decisions and prioritize implementation of features.
+
+personas; My personas consisted of two different archetypes.
+
+persona one;
+
+Name: Micheal Emeka
+Age: 15yrs
+Gender: Male
+Class: SS2
+Location: Enugu
+Student Type: Micheal is a smart student but he's not entirely confident about his knowledge of chemistry.
+Tech Level: Micheal has a good knowledge about using a smart device.
+Hobbies: 
+>> Football
+>> Gaming
+
+Needs/Pain Points:
+>> Micheal will be writing WAEC in fews months and he wants a platform that will help prepare him for that.
+>> Micheal requires a way to boost he's confidence in chemistry.
+>> He wants something Interactive and fun yet very educative to spend his spare time on.
+
+persona Two;
+
+Name: Bukola Adams
+Age: 14yrs
+Gender: Male
+Class: SS1
+Location: Lagos
+Student Type: Bukola is an average student and just recent got into the senior school. she has a flair for 
+science and would love to be a chemical Engineer. but she knows she has alot of work to do especially in chemistry.
+
+Tech Level: Bukola just recently got a smart phone as a gift from her dad for her 14yr birthday. she's really not 
+all that confident of her tech level.
+Hobbies: 
+>> Singing
+>> playing the guitar
+
+Needs/Pain Points:
+>> Bukola desires to know more about chemistry.
+>> She wants a platform she can use to test her knowledge constantly.
+>> He wants something really simple to navigate since she's still new to using a smartPhone.
+>> she desires something that will in some way encourage her to continue to learn.
+
+POSSIBLE SOLUTIONS
+Based on personas needs and pain points, i came up with a number possible solutions; 
+>> A simple and vibrant Inhterface.
+>> Milestone Badges and stickers at every stage.
+>> Simple graphical illustrations of every questions.
+>> chemistry IQ Summary.
+>> Team up with a friend feature
+>> share milestone badges and sticker with friends.
+
+
+IMPLEMENTED SOLUTIONS
+
+Among the list of "possible solutions" some were implemented, were solutions that best focuses on our personas and
+user demography.
+>> A simple and vibrant Interface: a simple and yet vibrant Interface was implemented, this was done putting
+into consideration that lots of the users are newbees to using smart phone and requires something is easy 
+to navigate and yet very catchy.
+
+>> Milestone Badges and stickers: after every hour 3 hours of quiz time or every 100 questions answered correctly, 
+the user gets a milestone badge of commendation, this is to give a user a sense of encouragement and boost their confidence.
+
+>> Share Milestone badge with friends: This was implemented to aid Interaction and a sense of healthy competition amongs pairs 
+on the same platform.
+
+>> Simple graphical illustrations for every question: Image tells a thousand stories, for every question theirs is simple illustrative diagram,
+this is to help the user mine the thought pattern and narrow. this proves to aid quick reasoning.
+
+>> Team up with a friend: this features is to aid interaction amongs pairs on the platform and also enhance progress level. with the feature a
+ user can pair up with a friend on the same platform and tackle questions in real time.
+
+
+ CONCLUSION
+
+ Due to time  constrain final testing was not carried out but going by how the implemented features solved the various pain points of the
+  different archetypes in our personas we can say that the Quiz feature was a huge success. 
